@@ -1,0 +1,29 @@
+
+.direktorON{
+    margin:0px auto;
+    width: 80%;
+}
+.direktor{
+    width: 100%;
+}
+.direktorImg{
+    width: 80%;
+}
+.direktorImg img{
+    width: 100%;
+}
+.direktorImg div{
+    width: 100%;
+}
+.DirektorHaqida{
+    width: 80%;
+}
+.yilNomi img{
+    width: 80%;
+}
+@media (max-width:1024px){
+    .newspeg img{
+        width: 200px ;
+        height: 250px;
+    }
+}

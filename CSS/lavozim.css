@@ -1,0 +1,52 @@
+
+.direktorON{
+    width: 35%;
+}
+.lavozim{
+    width: 65%;
+    padding: 10px;
+}
+.WhitePage{
+    margin: auto;
+    width: 90%;
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.WhitePage h1{
+    text-align: center;
+    padding: 20px 0;
+}
+.WhitePage p,.WhitePage a{
+    padding: 20px 10px;
+    line-height: 25px;
+}
+
+@media (max-width:550px){
+    
+.direktorON{
+    width: 80%;
+}
+.lavozim{
+    margin: auto;
+    width: 80%;
+    padding: 10px 0;
+}
+.WhitePage{
+    margin: auto;
+    width: 100%;
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
+}
+.WhitePage h1{
+    text-align: center;
+    padding: 20px 0;
+}
+.WhitePage p,.WhitePage a{
+    padding: 20px 10px;
+}
+    .derctorAndNews{
+        display: block;
+    }
+}
