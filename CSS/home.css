@@ -523,49 +523,7 @@
   padding: 5px;
   border-left: 7px solid #d34c3b;
 }
-.elonlar {
-  border-top: 2px solid #444;
-  border-bottom: 2px solid #444;
-  padding: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: start;
-  gap: 15px;
-  width: 280px;
-  cursor: pointer;
-}
-.elonlar a,
-.Fotogalerya a {
-  display: flex;
-  align-items: center;
-  justify-content: start;
-  gap: 15px;
-  text-decoration: none;
-}
-.elonlar h2 {
-  font-size: 35px;
-}
-.wifi {
-  --fa-rotate-angle: 45deg;
-}
-.Fotogalerya {
-  padding: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: start;
-  gap: 15px;
-  width: 280px;
-  font-size: 20px;
-  cursor: pointer;
-}
-.Fotogalerya i {
-  color: #d34c3b;
-  font-size: 45px;
-}
-.elonlar i {
-  color: #d34c3b;
-  font-size: 45px;
-}
+
 .yilNomi {
   margin-top: 20px;
   background-color: white;
@@ -611,62 +569,7 @@
     padding: 5px;
     border-left: 7px solid #d34c3b;
   }
-  .elonlar {
-    border-top: 2px solid #444;
-    border-bottom: 2px solid #444;
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    gap: 5px;
-    width: 100%;
-    cursor: pointer;
-  }
-  .elonlar a,
-  .Fotogalerya a {
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    gap: 5px;
-    text-decoration: none;
-  }
-  .elonlar h2 {
-    font-size: 18px;
-  }
-  .wifi {
-    --fa-rotate-angle: 45deg;
-  }
-  .Fotogalerya {
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    gap: 5px;
-    width: 100%;
-
-    cursor: pointer;
-  }
-  .Fotogalerya h2 {
-    font-size: 18px;
-  }
-  .Fotogalerya i {
-    color: #d34c3b;
-    font-size: 35px;
-  }
-  .elonlar i {
-    color: #d34c3b;
-    font-size: 35px;
-  }
-  .yilNomi {
-    margin-top: 20px;
-    background-color: white;
-    padding: 10px;
-    border-radius: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-  }
+  
   .yilNomi img {
     width: 100%;
   }
@@ -695,52 +598,6 @@
     margin-top: 10px;
     padding: 5px;
     border-left: 7px solid #d34c3b;
-  }
-  .elonlar {
-    border-top: 2px solid #444;
-    border-bottom: 2px solid #444;
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    gap: 5px;
-    width: 100%;
-    cursor: pointer;
-  }
-  .elonlar a,
-  .Fotogalerya a {
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    gap: 5px;
-    text-decoration: none;
-  }
-  .elonlar h2 {
-    font-size: 18px;
-  }
-  .wifi {
-    --fa-rotate-angle: 45deg;
-  }
-  .Fotogalerya {
-    padding: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: start;
-    gap: 5px;
-    width: 100%;
-
-    cursor: pointer;
-  }
-  .Fotogalerya h2 {
-    font-size: 18px;
-  }
-  .Fotogalerya i {
-    color: #d34c3b;
-    font-size: 35px;
-  }
-  .elonlar i {
-    color: #d34c3b;
-    font-size: 35px;
   }
   .yilNomi {
     margin-top: 20px;

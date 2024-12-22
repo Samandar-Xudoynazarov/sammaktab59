@@ -1,0 +1,9 @@
+.WhitePage a{
+    display: flex; align-items: center;
+    justify-content: center; 
+    gap: 10px;
+    text-decoration: none;
+}
+.WhitePage a h1{
+    font-size: 20px;
+}
